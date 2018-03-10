@@ -15,15 +15,15 @@ This is a simple application with the concept of CRUD in mind. Using node, expre
 
 ## Optimizations
 Due to the fast turn around of this project I didn't get to add all of the usability that I hoped for. A few things I would add to improve upon this project would be:
-1) Tally Count For Each Artist
-  a)As users added there picks for best lyrics. A number next to each name would increase or decrease at the end of the week the winner would be displayed.
+1) Tally Count For Each Artist:
+  As users added there picks for best lyrics. A number next to each name would increase or decrease at the end of the week the winner would be displayed.
 
-2) Highest up-voted comment would populate at the top of page.
+2) Highest up-voted comment would populate at the top of page:
 
-3) Allow users to create personal accounts;
-  a) I would allow for users to be able to create log-ins so that they could have a more personalized experience.
+3) Allow users to create personal accounts:
+  I would allow for users to be able to create log-ins so that they could have a more personalized experience.
 
-4) Custom music player.
+4) Custom music player:
 
 ## Lessons Learned:
 
