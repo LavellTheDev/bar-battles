@@ -9,6 +9,7 @@ Coming Soon
 ## How It's Made:
 
 **Tech used:** Node.JS Express MongoDB Javascript Framework of choice
+
 Under the Hood:
 This is a simple application with the concept of CRUD in mind. Using node, express modules, MongoDB and the server localhost 3000 I was able to connect the front and back ends. Initially while running command line all updates were made with node server.js, this was tedious and I eventually installed nodemon to take advatange of its ability to auto update the server. An html.ejs file was used as a template to reduce the amount of code needed to get this app running. This method allows me to define something once and reuse it throughout my application. A back up index.html page was added for trouble shooting. The JavaScript handles event listeners, any get, post, put or delete requests. You will notice this when adding to the messages input and clicking on the thumb or trash icons.
 
