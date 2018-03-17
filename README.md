@@ -35,3 +35,4 @@ Learning more about how CRUD works at least seeing it first hand was pretty amaz
 2. Navigate to `localhost:3000`
 # full-stack-lupe-fiasco-
 # full-stack-lupe-fiasco-app
+# full-stack-lupe-fiasco-app
