@@ -1,5 +1,5 @@
-# Bar Battles
-Each week a new song is posted that has a featured artist. Users will vote to determine who had the best bars.
+# Lupe Fiasco
+Lupe Fiasco is hands down the best rapper alive. Lets pay homage to his greatness
 
 **Link to project:**
 Coming Soon
@@ -15,16 +15,7 @@ This is a simple application with the concept of CRUD in mind. Using node, expre
 
 
 ## Optimizations
-Due to the fast turn around of this project I didn't get to add all of the usability that I hoped for. A few things I would add to improve upon this project would be:
-1) Tally Count For Each Artist:
-  As users added there picks for best lyrics. A number next to each name would increase or decrease at the end of the week the winner would be displayed.
 
-2) Highest up-voted comment would populate at the top of page:
-
-3) Allow users to create personal accounts:
-  I would allow for users to be able to create log-ins so that they could have a more personalized experience.
-
-4) Custom music player:
 
 ## Lessons Learned:
 
@@ -42,3 +33,5 @@ Learning more about how CRUD works at least seeing it first hand was pretty amaz
 
 1. run `npm run bars`
 2. Navigate to `localhost:3000`
+# full-stack-lupe-fiasco-
+# full-stack-lupe-fiasco-app

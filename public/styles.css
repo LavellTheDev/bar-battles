@@ -1,121 +1,45 @@
 body{
-  background: #d8d8d8;
+  /* background-color: #E7B6CF; */
+  background-image: url("https://1.bp.blogspot.com/_YDMo7jDRJeU/R1PZIN3cznI/AAAAAAAAECo/ItaPuqKOsa0/s1600-R/lupe_coverpasticker.jpg");
+  z-index: -1;
+  color:  white;
+  font-size: 20px;
 }
-.heroSection{
-  background-image: url("http://hw-img.datpiff.com/mbc66ba2/Dizzy_Wright_The_Golden_Age-front-large.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100%;
-  background-color: #1a1919;
-  border: 1px solid black;
-  width: 100%;
-  height: 450px;
-  z-index:-1;
+ul{
+    width: 35%;
 }
-.shadedBorder{
-  border: 1px solid black;
-  background-color: RGBa(0, 0, 0, 0.7);
-  height: 325px;
-  position: relative;
-  top: 85px;
-  z-index: 0;
+h1 {
+    margin: auto;
 }
-.coverArt{
-  width: 250px;
-  height: 250px;
-  position: relative;
-  bottom: 0;
-}
-.coverArtSection{
-  border:  1px solid black;
-  width: 250px;
-  height: 250px;
-  float: left;
-  margin: 0 0 0 10%;
-  position: relative;
-  bottom: 325px;
-
-}
-
-.artistInfo{
-  width: 250px;
-  height: 250px;
-  float: left;
-  margin: 0 0 0 5%;
-  position: relative;
-  bottom: 310px;
-
-}
-h1{
-  font-size: 50px;
-  font-weight: bold;
-  color: #e7ca1b;
-  text-align: center;
-  position: relative;
-  bottom: 285px;
-}
-section < h2{
-  font-size: 25px;
-  color: black;
-  clear: both;
-  position: absolute;
-  top: 20px;
-}
-
-h2{
-    position: relative;
-    right: 55%;
+.support{
+    margin-top: 20px;
 }
 h3{
-
-  color: black;
-  margin-top: 40px;
-  clear: both;
+  margin-top: 30px;
 }
-h4{
-  font-size: 20px;
-  color:black;
-  width: 100%;
-  position: absolute;
-
-}
-.songTitle{
-  font-size: 35px;
-  color: #e7ca1b;
-  position: relative;
-  top: -20px;
-  left: -5px;
-}
-
-.artistName{
-  font-size: 25px;
-  font-weight: lighter;
-  color: #d6d6d6;
-  margin: 10px 0 0 0;
-  position: relative;
-  top: -35px;
-}
-.albumName, .artistFeature, .producer {
-font-size: 18px;
-  color: #d6d6d6;
-  margin: 10px 0 0 0;
-  position: relative;
-  top: -35px;
-  font-weight:lighter;
-}
-.song{
-  position: absolute;
-  left: 60%;
-  top: 170px;
+h5{
+    margin-top: 65px;
 }
 a{
-  color: #7aa4fd;
-  text-decoration: none;
+    padding-right: 15px;
+    color: #E7B6CF;
 }
-li span:nth-child(2n+1){
-  color: red;
+.messages{
+    background-color: rgba(42,14,30,0.3)
 }
-
-li span:nth-child(3n+1){
-  color: red;
+span{
+    padding-right: 10px;
+}
+#container{
+    float: right;
+    margin-right: 10%;
+    margin-top: -5%;
+}
+/* #gifContainer{
+    background-image: url("giphy.gif");
+    background-size: 100px;
+    background-repeat: no-repeat;
+} */
+.formSubmit{
+    margin-top: 45px;
 }

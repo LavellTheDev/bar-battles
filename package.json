@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "bars": "nodemon server.js"
+    "lupe": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
